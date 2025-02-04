@@ -8,6 +8,6 @@ namespace FarmerLibrary
 {
     public static class Farmer
     {
-
+        
     }
 }
