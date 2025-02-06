@@ -7,8 +7,61 @@ using System.Threading.Tasks;
 
 namespace FarmerTest
 {
-    class Program
+    public class Program
     {
+        static void Test1() // Тест площади круга CircleArea
+        {
+            double p = 9.23;
+            double s = Farmer.CircleArea(p);
+            Console.WriteLine("Площадь круга: " + s);
+        }
+
+        static void Test2() // Тест площади равностороннего треугольника EquilateralTriangleArea
+        {
+            double p = -9.5;
+            double s = Farmer.EquilateralTriangleArea(p);
+            Console.WriteLine("Площадь равностороннего треугольника: " + s);    
+        }
+
+        static void Test3() // Тест площади квадрата SquareArea
+        {
+            double p = -36;
+            double s = Farmer.SquareArea(p);
+            Console.WriteLine("Площадь квадрата: " + s);
+        }
+
+        static void Test4() // Тест площади правильного ромба RhombusArea
+        {
+            double p = 315;
+            double s = Farmer.RhombusArea(p);
+            Console.WriteLine("Площадь правильного ромба: " + s);
+        }
+        
+        static void Test5() // Тест площади правильного пятиугольника PentagonArea
+        {
+            double p = -55;
+            double s = Farmer.PentagonArea(p);
+            Console.WriteLine("Площадь правильного пятиугольника: " + s);
+        }
+
+        static void Test6() // Тест площади прмоугольника, у которого одна сторона вдвое больше другой RectangleArea
+        {
+            double p = 5.600;
+            double s = Farmer.RectangleArea(p);
+            Console.WriteLine("Площадь прямоугольника, у которого одна сторона вдвое больше другой: " + s);
+        }
+
+        static void Test7() // Тест площади правильного шестиугольника HexagonArea
+        {
+            double p = 0.26;
+            double s = Farmer.HexagonArea(p);
+            Console.WriteLine("Площадь правильного шестиугольника: " + s);
+        }
+
+        /// <summary>
+        /// Тесты и вывод их результатов
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Test1();
@@ -18,57 +71,7 @@ namespace FarmerTest
             Test5();
             Test6();
             Test7();
-
-            Console.ReadLine();
-        }
-
-        static void Test1()
-        {
-            double p = 20; // Периметр квадрата
-            double s = Farmer.SquareArea(p);
-            Console.WriteLine("Площадь квадрата с периметром " + p + ": " + s);
-        }
-
-        static void Test2()
-        {
-            double p = 30; // Периметр равностороннего треугольника
-            double s = Farmer.EquilateralTriangleArea(p);
-            Console.WriteLine("Площадь равностороннего треугольника с периметром " + p + ": " + s);
-        }
-
-        static void Test3()
-        {
-            double p = 40; // Периметр ромба
-            double s = Farmer.RhombusArea(p);
-            Console.WriteLine("Площадь ромба с периметром " + p + ": " + s);
-        }
-
-        static void Test4()
-        {
-            double p = 50; // Периметр правильного пятиугольника
-            double s = Farmer.PentagonArea(p);
-            Console.WriteLine("Площадь правильного пятиугольника с периметром " + p + ": " + s);
-        }
-
-        static void Test5()
-        {
-            double p = 60; // Периметр прямоугольника
-            double s = Farmer.RectangleArea(p);
-            Console.WriteLine("Площадь прямоугольника с периметром " + p + ": " + s);
-        }
-
-        static void Test6()
-        {
-            double p = 70; // Периметр круга (длина окружности)
-            double s = Farmer.CircleArea(p);
-            Console.WriteLine("Площадь круга с периметром " + p + ": " + s);
-        }
-
-        static void Test7()
-        {
-            double p = 80; // Периметр правильного шестиугольника
-            double s = Farmer.HexagonArea(p);
-            Console.WriteLine("Площадь правильного шестиугольника с периметром " + p + ": " + s);
+            Console.ReadKey();
         }
     }
 }

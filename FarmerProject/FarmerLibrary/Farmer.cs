@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace FarmerLibrary
 {
+
+
+    /// <summary>
+    /// Класс Farmer в котором находятся методы для нахождения площади зная лишь периметр
+    /// </summary>
     public static class Farmer
     {
         // Метод вычисления площади квадрата
-        public static double SquareArea(double perimeter)
-        {
-            double S = Math.Pow(perimeter / 4, 2);
-            return S;
-        }
+        public static double SquareArea(double perimeter) => Math.Pow((perimeter / 4), 2);
+
         // Метод вычисления площади равностороннего треугольника
         public static double EquilateralTriangleArea(double perimeter)
         {
