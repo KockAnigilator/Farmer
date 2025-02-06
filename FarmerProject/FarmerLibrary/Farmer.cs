@@ -9,8 +9,11 @@ namespace FarmerLibrary
     public static class Farmer
     {
         // Метод вычисления площади квадрата
-        public static double SquareArea(double perimeter) => Math.Pow(perimeter / 4, 2);
-
+        public static double SquareArea(double perimeter)
+        {
+            double S = Math.Pow(perimeter / 4, 2);
+            return S;
+        }
         // Метод вычисления площади равностороннего треугольника
         public static double EquilateralTriangleArea(double perimeter)
         {
