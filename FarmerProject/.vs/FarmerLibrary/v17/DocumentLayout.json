@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9C0211E-48FC-4E5D-9431-43355B5A33EF}|FarmerTest\\FarmerTest.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\desktop\\farmerproject\\farmertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C0211E-48FC-4E5D-9431-43355B5A33EF}|FarmerTest\\FarmerTest.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\documents\\github\\farmer\\farmerproject\\farmertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C0211E-48FC-4E5D-9431-43355B5A33EF}|FarmerTest\\FarmerTest.csproj|solutionrelative:farmertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8050D87-2B4F-4871-AED7-899919A4419E}|FarmerLibrary\\FarmerLibrary.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\farmerlibrary\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D8050D87-2B4F-4871-AED7-899919A4419E}|FarmerLibrary\\FarmerLibrary.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\farmerlibrary\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8050D87-2B4F-4871-AED7-899919A4419E}|FarmerLibrary\\FarmerLibrary.csproj|solutionrelative:farmerlibrary\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F1E252C-1621-4FE6-BFE9-4B6330F02D33}|FarmerView\\FarmerView.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\farmerview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6F1E252C-1621-4FE6-BFE9-4B6330F02D33}|FarmerView\\FarmerView.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\farmerview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F1E252C-1621-4FE6-BFE9-4B6330F02D33}|FarmerView\\FarmerView.csproj|solutionrelative:farmerview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,22 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\FarmerView\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerView\\Form1.cs",
               "RelativeDocumentMoniker": "FarmerView\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\\Desktop\\\u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 \u0433\u0438\u0442\\FarmerProject\\FarmerView\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "..\\..\\..\\\u041D\u0438\u043A\\Desktop\\\u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 \u0433\u0438\u0442\\FarmerProject\\FarmerView\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerView\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FarmerView\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T15:15:33.237Z"
+              "WhenOpened": "2025-02-04T15:15:33.237Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\FarmerTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerTest\\Program.cs",
               "RelativeDocumentMoniker": "FarmerTest\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\FarmerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerTest\\Program.cs",
               "RelativeToolTip": "FarmerTest\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T15:15:10.649Z",
               "EditorCaption": ""
@@ -52,11 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Farmer.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\FarmerLibrary\\Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerLibrary\\Farmer.cs",
               "RelativeDocumentMoniker": "FarmerLibrary\\Farmer.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Desktop\\FarmerProject\\FarmerLibrary\\Farmer.cs",
-              "RelativeToolTip": "FarmerLibrary\\Farmer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Farmer\\FarmerProject\\FarmerLibrary\\Farmer.cs*",
+              "RelativeToolTip": "FarmerLibrary\\Farmer.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T15:14:14.192Z",
               "EditorCaption": ""

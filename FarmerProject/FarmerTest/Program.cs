@@ -39,7 +39,7 @@ namespace FarmerTest
         
         static void Test5() // Тест площади правильного пятиугольника PentagonArea
         {
-            double p = -55;
+            double p = 55;
             double s = Farmer.PentagonArea(p);
             Console.WriteLine("Площадь правильного пятиугольника: " + s);
         }
